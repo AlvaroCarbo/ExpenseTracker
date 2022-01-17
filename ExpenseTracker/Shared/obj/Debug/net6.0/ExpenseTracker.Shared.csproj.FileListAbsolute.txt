@@ -1,0 +1,12 @@
+C:\Users\crack\Desktop\Blazor\ExpenseTracker\ExpenseTracker\Shared\bin\Debug\net6.0\ExpenseTracker.Shared.deps.json
+C:\Users\crack\Desktop\Blazor\ExpenseTracker\ExpenseTracker\Shared\bin\Debug\net6.0\ExpenseTracker.Shared.dll
+C:\Users\crack\Desktop\Blazor\ExpenseTracker\ExpenseTracker\Shared\bin\Debug\net6.0\ref\ExpenseTracker.Shared.dll
+C:\Users\crack\Desktop\Blazor\ExpenseTracker\ExpenseTracker\Shared\bin\Debug\net6.0\ExpenseTracker.Shared.pdb
+C:\Users\crack\Desktop\Blazor\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net6.0\ExpenseTracker.Shared.csproj.AssemblyReference.cache
+C:\Users\crack\Desktop\Blazor\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net6.0\ExpenseTracker.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crack\Desktop\Blazor\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net6.0\ExpenseTracker.Shared.AssemblyInfoInputs.cache
+C:\Users\crack\Desktop\Blazor\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net6.0\ExpenseTracker.Shared.AssemblyInfo.cs
+C:\Users\crack\Desktop\Blazor\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net6.0\ExpenseTracker.Shared.csproj.CoreCompileInputs.cache
+C:\Users\crack\Desktop\Blazor\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net6.0\ExpenseTracker.Shared.dll
+C:\Users\crack\Desktop\Blazor\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net6.0\ref\ExpenseTracker.Shared.dll
+C:\Users\crack\Desktop\Blazor\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net6.0\ExpenseTracker.Shared.pdb
